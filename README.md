@@ -5,6 +5,8 @@ A lightweight Python + FFmpeg script to **connect**, **keep alive**, and **re-br
 
 Designed for **mobile field use** (storm chasing, scientific expeditions, automotive testing) with **Raspberry Pi** deployment in mind.
 
+Accomplished with the Otovoda B-T006 Dual Dash Cam from amazon <https://www.amazon.com/dp/B0DSLGFJV6>
+
 ---
 
 ## 🌪️ Features
